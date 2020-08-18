@@ -24,6 +24,7 @@ In this we will learn different phases of database architecture, database storag
 Here, we discussed about RDBMS, normalization, joins, advance database applications and the major limitations of RDBMS.
 
 ## Chapter 6 - Extensions of DBMS
+Here, we discussed about SQL as programming Language, Control Statements, Exceptions handling, Cursors, Stored Procedures, Functions, Recursive Queries, Triggers, SQL Injection. 
 
 ## Chapter 7 - ORDBMS
 
